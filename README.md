@@ -1,4 +1,4 @@
-# Classroom assignment software
+# Derslik Atama Yazılımı
 
 Bu kod, açılan dersleri dersliklere yerleştirme işlemini yapar. Her
 dersin kodu şubesi ve haftanın hangi günlerinde olduğu bilgisi hazırlanır. Ayrıca derslerin yapılacağı
